@@ -1,0 +1,5 @@
+build:
+  docker:
+    MAFIA: Dockerfile
+run:
+  MAFIA: python3 -m main.py
